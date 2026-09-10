@@ -1,0 +1,2 @@
+employee_id,employee_name,department,leave_type,start_date,end_date,days,status,reason
+E1002,Jane Doe,Finance,Sick,2026-09-10,2026-09-11,2,Approved,Medical Illness

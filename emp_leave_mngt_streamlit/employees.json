@@ -1,0 +1,35 @@
+[
+  {
+    "employee_id": "E1001",
+    "name": "John Smith",
+    "email": "john.smith@example.com",
+    "department": "IT",
+    "leave_balance": 20,
+    "leave_requests": []
+  },
+  {
+    "employee_id": "E1002",
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "department": "Finance",
+    "leave_balance": 13,
+    "leave_requests": [
+      {
+        "leave_type": "Sick",
+        "start_date": "2026-09-10",
+        "end_date": "2026-09-11",
+        "days": 2,
+        "status": "Approved",
+        "reason": "Medical Illness"
+      }
+    ]
+  },
+  {
+    "employee_id": "E1004",
+    "name": "Alice",
+    "email": "Turner",
+    "department": "Marketing",
+    "leave_balance": 6,
+    "leave_requests": []
+  }
+]
